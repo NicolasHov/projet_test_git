@@ -5,10 +5,7 @@ function Login() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>
-          Login
-        </h1>
-        <input type='name' />
+      ollllééééééé
       </header>
     </div>
   );

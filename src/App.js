@@ -5,11 +5,7 @@ import Login from './Login';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        helllllooooooooooooo
-        <img src={logo} className="App-logo" alt="logo" />
-        <Login />
-      </header>
+      APp est vide maintenant 
     </div>
   );
 }

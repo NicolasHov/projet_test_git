@@ -1,16 +1,17 @@
 import logo from './logo.svg';
 import './App.css';
-import Login from './Login';
 
-function App() {
+function Login() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <Login />
+        <h1>
+          Login
+        </h1>
+        <input type='name' />
       </header>
     </div>
   );
 }
 
-export default App;
+export default Login;
